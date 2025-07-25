@@ -17,3 +17,6 @@ The **Plant Nursery Management System** is a full-stack web application designed
 - Order management system
 - Dashboard for admin to manage stock and sales
 - Booking system for plant delivery
+
+
+![Image](https://github.com/user-attachments/assets/d97c2e30-fae0-4faa-bec3-6edb9d64f865)
